@@ -1,18 +1,21 @@
 {
+  "total_channels": 2,
   "channels": [
     {
       "id": 1,
       "name": "BTV HD",
-      "logo": "https://en.wikipedia.org/wiki/File:Bangladesh_Television_Logo.svg#/media/File:Bangladesh_Television_Logo.svg",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/2/2a/Bangladesh_Television_Logo.svg",
       "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8",
-      "category": "Entertainment"
+      "category": "Entertainment",
+      "status": "active"
     },
     {
       "id": 2,
       "name": "Ekushey TV",
-      "logo": "https://en.wikipedia.org/wiki/File:Ekushey_Television_Logo.svg#/media/File:Ekushey_Television_Logo.svg",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/e/eb/Ekushey_Television_Logo.svg",
       "url": "https://bozztv.com/rongo/rongo-EkusheyTV/tracks-v1a1/mono.m3u8",
-      "category": "News"
+      "category": "News",
+      "status": "active"
     }
   ]
 }
