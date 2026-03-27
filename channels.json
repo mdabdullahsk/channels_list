@@ -1,5 +1,5 @@
 {
-  "total_channels": 2,
+  "total_channels": 10,
   "channels": [
     {
       "id": 1,
@@ -24,7 +24,7 @@
       "url": "https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8",
       "category": "News",
       "status": "active"
-    }
+    },
     {
       "id": 4,
       "name": "Deshe Bideshe",
