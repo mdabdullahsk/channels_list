@@ -1,165 +1,107 @@
-{
-  "total_channels": 10,
-  "channels": [
-    {
-      "id": 1,
-      "name": "BTV HD",
-      "logo": "https://upload.wikimedia.org/wikipedia/en/2/2a/Bangladesh_Television_Logo.svg",
-      "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8",
-      "category": "Entertainment",
-      "status": "active"
-    },
-    {
-      "id": 2,
-      "name": "Ekushey TV",
-      "logo": "https://s4.gifyu.com/images/image534fa27d7683f33d.png",
-      "url": "http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8",
-      "category": "News",
-      "status": "active"
-    },
-    {
-      "id": 3,
-      "name": "Deepto TV",
-      "logo": "https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png",
-      "url": "https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8",
-      "category": "News",
-      "status": "active"
-    },
-    {
-      "id": 4,
-      "name": "Deshe Bideshe",
-      "logo": "https://pbs.twimg.com/profile_images/739539785304281088/zMwNO936_400x400.jpg",
-      "url": "https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8",
-      "category": "News",
-      "status": "active"
-    },
-    {
-      "id": 5,
-      "name": "Ekushey TV",
-      "logo": "https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png",
-      "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8",
-      "category": "News",
-      "status": "active"
-    },
-    {
-      "id": 6,
-      "name": "SOMOY TV",
-      "logo": "https://s4.gifyu.com/images/image534fa27d7683f33d.png",
-      "url": "http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8",
-      "category": "News",
-      "status": "active"
-    },
-    {
-      "id": 7,
-      "name": "Ekushey TV",
-      "logo": "https://s4.gifyu.com/images/image534fa27d7683f33d.png",
-      "url": "http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8",
-      "category": "News",
-      "status": "active"
-    },
-    {
-      "id": 8,
-      "name": "Channel 24",
-      "logo": "https://dl.dropbox.com/s/puf12xv5flgbnz5/channel24_bd.png",
-      "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8",
-      "category": "News",
-      "status": "active"
-    },
-    {
-      "id": 9,
-      "name": "INDEPENDENT TV",
-      "logo": "https://dl.dropbox.com/s/7xwwb8hetz3w8rp/independent_tv.png",
-      "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8",
-      "category": "News",
-      "status": "active"
-    },
-    {
-      "id": 10,
-      "name": "Ekattor TV",
-      "logo": "https://s4.gifyu.com/images/imagea02f4314e761661d.png",
-      "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8",
-      "category": "News",
-      "status": "active"
-    },
-    {
-      "id": 11,
-      "name": "JAMUNA TV",
-      "logo": "https://dl.dropbox.com/s/k7z1dsec1jfjbkn/jamuna_tv_bd.png",
-      "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8",
-      "category": "News",
-      "status": "active"
-    },
-    {
-      "id": 12,
-      "name": "ATN NEWS",
-      "logo": "https://dl.dropbox.com/s/4ldi1dp09s8o6bm/atn_news_bd.png",
-      "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8",
-      "category": "News",
-      "status": "active"
-    },
-    {
-      "id": 13,
-      "name": "Maasranga TV",
-      "logo": "https://upload.wikimedia.org/wikipedia/bn/f/f9/%E0%A6%AE%E0%A6%BE%E0%A6%9B%E0%A6%B0%E0%A6%BE%E0%A6%99%E0%A6%BE_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpeg",
-      "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8",
-      "category": "News",
-      "status": "active"
-    },
-    {
-      "id": 14,
-      "name": "JAMUNA TV",
-      "logo": "https://dl.dropbox.com/s/k7z1dsec1jfjbkn/jamuna_tv_bd.png",
-      "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8",
-      "category": "News",
-      "status": "active"
-    },
-    {
-      "id": 15,
-      "name": "NTV",
-      "logo": "https://www.ntvbd.com/sites/default/files/aggregator/2020/02/17/ntv-channel_0.jpg",
-      "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8",
-      "category": "News",
-      "status": "active"
-    },
-    {
-      "id": 16,
-      "name": "Channel I",
-      "logo": "https://cdn.tvpassport.com/image/station/240x135/channel-i-bangla.png",
-      "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8",
-      "category": "News",
-      "status": "active"
-    },
-    {
-      "id": 17,
-      "name": "JAMUNA TV",
-      "logo": "https://dl.dropbox.com/s/k7z1dsec1jfjbkn/jamuna_tv_bd.png",
-      "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8",
-      "category": "News",
-      "status": "active"
-    },
-    {
-      "id": 18,
-      "name": "JAMUNA TV",
-      "logo": "https://dl.dropbox.com/s/k7z1dsec1jfjbkn/jamuna_tv_bd.png",
-      "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8",
-      "category": "News",
-      "status": "active"
-    },
-    {
-      "id": 19,
-      "name": "JAMUNA TV",
-      "logo": "https://dl.dropbox.com/s/k7z1dsec1jfjbkn/jamuna_tv_bd.png",
-      "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8",
-      "category": "News",
-      "status": "active"
-    },
-    {
-      "id": 20,
-      "name": "JAMUNA TV",
-      "logo": "https://dl.dropbox.com/s/k7z1dsec1jfjbkn/jamuna_tv_bd.png",
-      "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8",
-      "category": "News",
-      "status": "active"
-    }
-  ]
-}
+[
+  {
+    "name": "T Sports",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/1280px-T_Sports_logo.svg.png",
+    "url": "http://198.195.239.50:8095/Tsports/tracks-v1a1/mono.m3u8"
+  },
+  {
+    "name": "Sony Ten 1",
+    "img": "assets/images/sony_ten.png",
+    "url": "your_streaming_link_here"
+  },
+  {
+    "name": "Sony Ten 1",
+    "img": "assets/images/sony_ten.png",
+    "url": "your_streaming_link_here"
+  }
+  {
+    "name": "Sony Ten 1",
+    "img": "assets/images/sony_ten.png",
+    "url": "your_streaming_link_here"
+  },
+  {
+    "name": "Sony Ten 1",
+    "img": "assets/images/sony_ten.png",
+    "url": "your_streaming_link_here"
+  },
+  {
+    "name": "Sony Ten 1",
+    "img": "assets/images/sony_ten.png",
+    "url": "your_streaming_link_here"
+  },
+  {
+    "name": "Sony Ten 1",
+    "img": "assets/images/sony_ten.png",
+    "url": "your_streaming_link_here"
+  },
+  {
+    "name": "Sony Ten 1",
+    "img": "assets/images/sony_ten.png",
+    "url": "your_streaming_link_here"
+  },
+  {
+    "name": "Sony Ten 1",
+    "img": "assets/images/sony_ten.png",
+    "url": "your_streaming_link_here"
+  },
+  {
+    "name": "Sony Ten 1",
+    "img": "assets/images/sony_ten.png",
+    "url": "your_streaming_link_here"
+  },
+  {
+    "name": "Sony Ten 1",
+    "img": "assets/images/sony_ten.png",
+    "url": "your_streaming_link_here"
+  },
+  {
+    "name": "Sony Ten 1",
+    "img": "assets/images/sony_ten.png",
+    "url": "your_streaming_link_here"
+  },
+  {
+    "name": "Sony Ten 1",
+    "img": "assets/images/sony_ten.png",
+    "url": "your_streaming_link_here"
+  },
+  {
+    "name": "Sony Ten 1",
+    "img": "assets/images/sony_ten.png",
+    "url": "your_streaming_link_here"
+  },
+  {
+    "name": "Sony Ten 1",
+    "img": "assets/images/sony_ten.png",
+    "url": "your_streaming_link_here"
+  },
+  {
+    "name": "Sony Ten 1",
+    "img": "assets/images/sony_ten.png",
+    "url": "your_streaming_link_here"
+  },
+  {
+    "name": "Sony Ten 1",
+    "img": "assets/images/sony_ten.png",
+    "url": "your_streaming_link_here"
+  },
+  {
+    "name": "Sony Ten 1",
+    "img": "assets/images/sony_ten.png",
+    "url": "your_streaming_link_here"
+  },
+  {
+    "name": "Sony Ten 1",
+    "img": "assets/images/sony_ten.png",
+    "url": "your_streaming_link_here"
+  },
+  {
+    "name": "Sony Ten 1",
+    "img": "assets/images/sony_ten.png",
+    "url": "your_streaming_link_here"
+  },
+  {
+    "name": "Sony Ten 1",
+    "img": "assets/images/sony_ten.png",
+    "url": "your_streaming_link_here"
+  }
+]
