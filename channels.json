@@ -46,7 +46,12 @@
       "name": "COLORS BANGLA CINEMA",
       "url": "http://103.49.70.113:5001/live/1657.m3u8",
       "image": "https://askview.free.nf/assets/image/Sony_Aathpng.png"
-    }
+    },
+    {
+      "name": "ENTERR 10",
+      "url": "https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8",
+      "image": "https://askview.free.nf/assets/image/Sony_Aathpng.png"
+    },
     {
       "name": "Zee TV",
       "url": "http://103.49.70.113:5001/live/167.m3u8",
