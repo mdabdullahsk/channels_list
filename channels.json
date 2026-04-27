@@ -36,6 +36,11 @@
       "name": "SUN BANGLA",
       "url": "http://103.49.70.113:5001/live/1669.m3u8",
       "image": "https://askview.free.nf/assets/image/Sony_Aathpng.png"
+    },
+    {
+      "name": "SANGEET BANGLA",
+      "url": "https://cdn-4.pishow.tv/live/1143/master.m3u8",
+      "image": "https://askview.free.nf/assets/image/Sony_Aathpng.png"
     }
   ]
 }
