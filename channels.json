@@ -21,6 +21,11 @@
       "name": "Sony Aath",
       "url": "http://198.195.239.50:8095/SonyAath/tracks-v1a1/mono.m3u8",
       "image": "https://askview.free.nf/assets/image/Sony_Aathpng.png"
+    },
+    {
+      "name": "Colors Bangla",
+      "url": "http://103.49.70.113:5001/live/756.m3u8",
+      "image": "https://askview.free.nf/assets/image/Sony_Aathpng.png"
     }
   ]
 }
