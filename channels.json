@@ -9,12 +9,12 @@
     },
     {
       "name": "Star Jalsha",
-      "url": "http://198.195.239.50:8095/bdixbd.net_StarJalshaHD/video.m3u8",
+      "url": "https://playztv-apps.pages.dev/star-jalsha/index.m3u8",
       "image": "https://askview.free.nf/assets/image/Star_Jalsha_logo.png"
     },
     {
       "name": "Zee Bangla",
-      "url": "http://103.49.70.113:5001/live/625.m3u8",
+      "url": "https://playztv-apps.pages.dev/zee-bangla/index.m3u8",
       "image": "https://askview.free.nf/assets/image/Zee_Bangla.png"
     },
     {
@@ -80,6 +80,16 @@
     {
       "name": "MY TV",
       "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mytv-up-off.stream/tracks-v1a1/mono.m3u8",
+      "image": "https://askview.free.nf/assets/image/All_TV.png"
+    },
+    {
+      "name": "RTV",
+      "url": "https://playztv-apps.pages.dev/rtv/index.m3u8",
+      "image": "https://askview.free.nf/assets/image/All_TV.png"
+    },
+    {
+      "name": "T Sports",
+      "url": "https://playztv-apps.pages.dev/tsports/index.m3u8",
       "image": "https://askview.free.nf/assets/image/All_TV.png"
     },
     {
