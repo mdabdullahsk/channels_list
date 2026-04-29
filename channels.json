@@ -3,319 +3,309 @@
   "update_url": "https://askview.free.nf",
   "channels": [
     {
-      "name": "Jalsha Movies",
-      "url": "http://103.229.254.25:7001/play/a0dt/index.m3u8",
-      "image": "https://askview.free.nf/assets/image/Jalsha_Movies.png"
-    },
-    {
-      "name": "Star Jalsha",
-      "url": "https://playztv-apps.pages.dev/star-jalsha/index.m3u8",
-      "image": "https://askview.free.nf/assets/image/Star_Jalsha_logo.png"
-    },
-    {
-      "name": "Zee Bangla",
-      "url": "https://playztv-apps.pages.dev/zee-bangla/index.m3u8",
-      "image": "https://askview.free.nf/assets/image/Zee_Bangla.png"
-    },
-    {
-      "name": "Sony Aath",
-      "url": "http://198.195.239.50:8095/SonyAath/tracks-v1a1/mono.m3u8",
-      "image": "https://askview.free.nf/assets/image/Sony_Aathpng.png"
-    },
-    {
-      "name": "Colors Bangla",
-      "url": "http://103.49.70.113:5001/live/756.m3u8",
-      "image": "https://askview.free.nf/assets/image/All_TV.png"
-    },
-    {
-      "name": "Zee Bangla Sonar",
-      "url": "http://198.195.239.50:8095/ZeeBanglaCinema/tracks-v1a1/mono.m3u8",
-      "image": "https://askview.free.nf/assets/image/All_TV.png"
-    },
-    {
-      "name": "SUN BANGLA",
-      "url": "http://103.49.70.113:5001/live/1669.m3u8",
-      "image": "https://askview.free.nf/assets/image/All_TV.png"
-    },
-    {
-      "name": "SANGEET BANGLA",
-      "url": "https://cdn-4.pishow.tv/live/1143/master.m3u8",
-      "image": "https://askview.free.nf/assets/image/All_TV.png"
-    },
-    {
-      "name": "COLORS BANGLA CINEMA",
-      "url": "http://103.49.70.113:5001/live/1657.m3u8",
-      "image": "https://askview.free.nf/assets/image/All_TV.png"
-    },
-    {
-      "name": "ENTERR 10",
-      "url": "https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8",
-      "image": "https://askview.free.nf/assets/image/All_TV.png"
-    },
-    {
-      "name": "Zee TV",
-      "url": "http://103.49.70.113:5001/live/167.m3u8",
-      "image": "https://askview.free.nf/assets/image/All_TV.png"
-    },
-    {
-      "name": "Sony Tv",
-      "url": "http://198.195.239.50:8095/SonyTv/tracks-v1a1/mono.m3u8",
-      "image": "https://askview.free.nf/assets/image/All_TV.png"
-    },
-     {
-      "name": "Star Plus",
-      "url": "http://198.195.239.50:8095/StarPlus/tracks-v1a1/mono.m3u8",
-      "image": "https://askview.free.nf/assets/image/All_TV.png"
-    },
-    {
-      "name": "Star Gold",
-      "url": "http://198.195.239.50:8095/StarGold/tracks-v1a1/mono.m3u8",
-      "image": "https://askview.free.nf/assets/image/All_TV.png"
-    },
-    {
-      "name": "Sony MAX",
-      "url": "http://198.195.239.50:8095/SonyMAX/tracks-v1a1/mono.m3u8",
-      "image": "https://askview.free.nf/assets/image/All_TV.png"
-    },    
-    {
-      "name": "MY TV",
-      "url": "http://103.229.254.25:7001/play/a05z/index.m3u8",
-      "image": "https://askview.free.nf/assets/image/All_TV.png"
-    },
-    {
-      "name": "RTV",
-      "url": "http://103.229.254.25:7001/play/a068/index.m3u8",
-      "image": "https://askview.free.nf/assets/image/All_TV.png"
-    },
-    {
-      "name": "T Sports",
-      "url": "https://playztv-apps.pages.dev/tsports/index.m3u8",
-      "image": "https://askview.free.nf/assets/image/All_TV.png"
-    },
-    {
-      "name": "Boishakhi Tv",
-      "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/boishakhitv-org.stream/tracks-v1a1/mono.m3u8",
-      "image": "https://askview.free.nf/assets/image/All_TV.png"
-    },
-    {
-      "name": "Al Jazeera",
-      "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/aljazeera.stream/tracks-v1a1/mono.m3u8",
-      "image": "https://askview.free.nf/assets/image/All_TV.png"
-    },
-    {
-      "name": "Ananda TV",
-      "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/anandatv.stream/tracks-v1a1/mono.m3u8",
-      "image": "https://askview.free.nf/assets/image/All_TV.png"
-    },
-    {
-      "name": "Asian TV",
-      "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/anandatv.stream/tracks-v1a1/mono.m3u8",
-      "image": "https://askview.free.nf/assets/image/All_TV.png"
-    },
-    {
       "name": "ATN Bangla",
       "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/atnbd-8-org.stream/tracks-v1a1/mono.m3u8",
-      "image": "https://askview.free.nf/assets/image/All_TV.png"
+      "image": "https://askview.free.nf/assets/image/Logo_of_ATN_Bangla.svg.png"
     },
     {
       "name": "ATN Bangla UK",
       "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/atnbanglauk-off.stream/tracks-v1a1/mono.m3u8",
-      "image": "https://askview.free.nf/assets/image/All_TV.png"
+      "image": "https://askview.free.nf/assets/image/atn.png"
     },
     {
       "name": "ATN Music",
       "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/atnmusic.stream/tracks-v1a1/mono.m3u8",
-      "image": "https://askview.free.nf/assets/image/All_TV.png"
-    },
-    {
-      "name": "ATN News",
-      "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/atnws-sg.stream/tracks-v1a1/mono.m3u8",
-      "image": "https://askview.free.nf/assets/image/All_TV.png"
-    },
-    {
-      "name": "Ayna TV",
-      "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ayna.stream/tracks-v1a1/mono.m3u8",
-      "image": "https://askview.free.nf/assets/image/All_TV.png"
-    },
-    {
-      "name": "Azan TV Canada",
-      "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/azantv.stream/tracks-v1a1/mono.m3u8",
-      "image": "https://askview.free.nf/assets/image/All_TV.png"
-    },
-    {
-      "name": "BiswaBangla 24",
-      "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/biswabanglatv.stream/tracks-v1a1/mono.m3u8",
-      "image": "https://askview.free.nf/assets/image/All_TV.png"
+      "image": "https://askview.free.nf/assets/image/H86bSTqPN6O.png"
     },
     {
       "name": "Btv Chittagong",
       "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/btvnational-ctg.stream/tracks-v1a1/mono.m3u8",
-      "image": "https://askview.free.nf/assets/image/All_TV.png"
+      "image": "https://askview.free.nf/assets/image/BTV_Chattogram_Logo.svg.png"
     },
     {
       "name": "BTV National",
       "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/btvnational1.stream/tracks-v1a1/mono.m3u8",
-      "image": "https://askview.free.nf/assets/image/All_TV.png"
+      "image": "https://askview.free.nf/assets/image/Bangladesh_Television_Logo.svg.png"
     },
     {
       "name": "BTV News",
       "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/btvbd-office-sg.stream/tracks-v1a1/mono.m3u8",
-      "image": "https://askview.free.nf/assets/image/All_TV.png"
-    },
-    {
-      "name": "CB24 TV",
-      "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/cb24.stream/tracks-v1a1/mono.m3u8",
-      "image": "https://askview.free.nf/assets/image/All_TV.png"
+      "image": "https://askview.free.nf/assets/image/বিটিভি_নিউজের_লোগো.svg.png"
     },
     {
       "name": "Channel 16",
       "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel16bd.stream/tracks-v1a1/mono.m3u8",
-      "image": "https://askview.free.nf/assets/image/All_TV.png"
+      "image": "https://askview.free.nf/assets/image/Channel_16_Bangladesh_Logo.png"
     },
     {
       "name": "Channel 24",
       "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel24-sg-e8e.stream/tracks-v1a1/mono.m3u8",
-      "image": "https://askview.free.nf/assets/image/All_TV.png"
+      "image": "https://askview.free.nf/assets/image/Logo_of_Channel_24_(Bangladesh).svg.png"
     },
     {
       "name": "Channel 9",
       "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel9hd.stream/tracks-v1a1/mono.m3u8",
-      "image": "https://askview.free.nf/assets/image/All_TV.png"
+      "image": "https://askview.free.nf/assets/image/Channel9_bd.svg.png"
     },
     {
       "name": "Channel S BD",
       "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channels.stream/tracks-v1a1/mono.m3u8",
-      "image": "https://askview.free.nf/assets/image/All_TV.png"
+      "image": "https://askview.free.nf/assets/image/Channel_S_Logo.SVG.png"
     },
     {
       "name": "Channel S UK",
       "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/chsukoff.stream/tracks-v1a1/mono.m3u8",
-      "image": "https://askview.free.nf/assets/image/All_TV.png"
+      "image": "https://askview.free.nf/assets/image/Channel_S_Bangladesh_Logo.png"
     },
     {
-      "name": "Channeli",
+      "name": "Channel i",
       "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channeli-8-org.stream/tracks-v1a1/mono.m3u8",
-      "image": "https://askview.free.nf/assets/image/All_TV.png"
+      "image": "https://askview.free.nf/assets/image/Channel-i.svg.png"
     },
     {
       "name": "DBC News",
       "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/dbcnews.stream/tracks-v1a1/mono.m3u8",
-      "image": "https://askview.free.nf/assets/image/All_TV.png"
+      "image": "https://askview.free.nf/assets/image/ডিবিসি_নিউজ–এর_লোগো.svg.png"
     },
     {
       "name": "Desh TV",
       "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/deshtv.stream/tracks-v1a1/mono.m3u8",
-      "image": "https://askview.free.nf/assets/image/All_TV.png"
-    },
-    {
-      "name": "DesheBideshe TV | Canada",
-      "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/deshebideshe.stream/tracks-v1a1/mono.m3u8",
-      "image": "https://askview.free.nf/assets/image/All_TV.png"
-    },
-    {
-      "name": "Deshi TV",
-      "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/deshitv.stream/tracks-v1a1/mono.m3u8",
-      "image": "https://askview.free.nf/assets/image/All_TV.png"
+      "image": "https://askview.free.nf/assets/image/দেশ_টিভি.svg.png"
     },
     {
       "name": "Ekattor TV",
       "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ekattor.stream/tracks-v1a1/mono.m3u8",
-      "image": "https://askview.free.nf/assets/image/All_TV.png"
+      "image": "https://askview.free.nf/assets/image/Ekattor_TV_logo.svg.png"
     },
     {
       "name": "Ekhon TV",
       "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ekattor.stream/tracks-v1a1/mono.m3u8",
-      "image": "https://askview.free.nf/assets/image/All_TV.png"
-    },
-    {
-      "name": "EP TV",
-      "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/eptv.stream/tracks-v1a1/mono.m3u8",
-      "image": "https://askview.free.nf/assets/image/All_TV.png"
-    },
-    {
-      "name": "Galaxy TV",
-      "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/galaxytvbd.stream/tracks-v1a1/mono.m3u8",
-      "image": "https://askview.free.nf/assets/image/All_TV.png"
-    },
-    {
-      "name": "Gazi Television – GTV",
-      "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/gazibdz.stream/tracks-v1a1/mono.m3u8",
-      "image": "https://askview.free.nf/assets/image/All_TV.png"
-    },
-    {
-      "name": "Global TV Bangladesh",
-      "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/Global-tv.stream/tracks-v1a1/mono.m3u8",
-      "image": "https://askview.free.nf/assets/image/All_TV.png"
-    },
-    {
-      "name": "Green TV",
-      "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/greentv.stream/tracks-v1a1/mono.m3u8",
-      "image": "https://askview.free.nf/assets/image/All_TV.png"
-    },
-    {
-      "name": "Independent TV",
-      "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/independent-8-org.stream/tracks-v1a1/mono.m3u8",
-      "image": "https://askview.free.nf/assets/image/All_TV.png"
-    },
-    {
-      "name": "Jago News 24",
-      "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/jagonews24.stream/tracks-v1a1/mono.m3u8",
-      "image": "https://askview.free.nf/assets/image/All_TV.png"
+      "image": "https://askview.free.nf/assets/image/Ekhon_Logo.svg.png"
     },
     {
       "name": "Jamuna TV",
       "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/jamuna-test-sample-ok.stream/tracks-v1a1/mono.m3u8",
-      "image": "https://askview.free.nf/assets/image/All_TV.png"
-    },
-    {
-      "name": "Mohona TV",
-      "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mohonatv.stream/tracks-v1a1/mono.m3u8",
-      "image": "https://askview.free.nf/assets/image/All_TV.png"
-    },
-    {
-      "name": "Movie Bangla",
-      "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/moviebanglalink2.stream/tracks-v1a1/mono.m3u8",
-      "image": "https://askview.free.nf/assets/image/All_TV.png"
-    },
-    {
-      "name": "Music Bangla",
-      "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/musicbangla44.stream/tracks-v1a1/mono.m3u8",
-      "image": "https://askview.free.nf/assets/image/All_TV.png"
-    },
-    {
-      "name": "NEWS24 TV",
-      "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/news24local.stream/tracks-v1a1/mono.m3u8",
-      "image": "https://askview.free.nf/assets/image/All_TV.png"
-    },
-    {
-      "name": "Nexus TV",
-      "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/nexustv.stream/tracks-v1a1/mono.m3u8",
-      "image": "https://askview.free.nf/assets/image/All_TV.png"
-    },
-    {
-      "name": "Ntv Europe",
-      "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ntvuk00332211.stream/tracks-v1a1/mono.m3u8",
-      "image": "https://askview.free.nf/assets/image/All_TV.png"
-    },
-    {
-      "name": "Time Televison | USA",
-      "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/timetvusa.stream/tracks-v1a1/mono.m3u8",
-      "image": "https://askview.free.nf/assets/image/All_TV.png"
+      "image": "https://askview.free.nf/assets/image/Jamuna_TV_logo.svg.png"
     },
     {
       "name": "Somoy News",
       "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/somoyt000011226615544544.stream/tracks-v1a1/mono.m3u8",
-      "image": "https://askview.free.nf/assets/image/All_TV.png"
+      "image": "https://askview.free.nf/assets/image/SOMOY_TV_Logo.svg.png"
     },
     {
-      "name": "Star News",
-      "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/starnewsbd.stream/tracks-v1a1/mono.m3u8",
-      "image": "https://askview.free.nf/assets/image/All_TV.png"
+      "name": "RTV",
+      "url": "http://103.229.254.25:7001/play/a068/index.m3u8",
+      "image": "https://askview.free.nf/assets/image/Rtv_bangladesh.svg.png"
     },
     {
-      "name": "Thikana TV | Web Test Transmission",
-      "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/thikanatv.stream/tracks-v1a1/mono.m3u8",
-      "image": "https://askview.free.nf/assets/image/All_TV.png"
+      "name": "JALSHA MOVIES",
+      "url": "http://103.229.254.25:7001/play/a0dt/index.m3u8",
+      "image": "https://askview.free.nf/assets/image/জলসা_মুভিজের_লোগো.png"
+    },
+    {
+      "name": "ZEE BANGLA",
+      "url": "http://103.229.254.25:7001/play/a06o/index.m3u8",
+      "image": "https://askview.free.nf/assets/image/জি_বাংলা_২০২৫.svg.png"
+    },
+    {
+      "name": "SONY AATH",
+      "url": "http://198.195.239.50:8095/SonyAath/tracks-v1a1/mono.m3u8",
+      "image": "https://askview.free.nf/assets/image/Sony_Aath.png"
+    },
+    {
+      "name": "ZEE BANGLA CINEMA",
+      "url": "http://103.229.254.25:7001/play/a070/index.m3u8",
+      "image": "https://askview.free.nf/assets/image/Colors_Bangla_Cinema.png"
+    },
+    {
+      "name": "STAR JALSHA",
+      "url": "http://103.229.254.25:7001/play/a0c0/index.m3u8",
+      "image": "https://askview.free.nf/assets/image/Star_Jalsha_logo_2023.png"
+    },
+    {
+      "name": "COLORS BANGLA",
+      "url": "http://103.229.254.25:7001/play/a0ds/index.m3u8",
+      "image": "https://askview.free.nf/assets/image/Colors_Bangla.png"
+    },
+    {
+      "name": "SUN BANGLA",
+      "url": "http://103.229.254.25:7001/play/a0cw/index.m3u8",
+      "image": "https://askview.free.nf/assets/image/Sun_Bangla_Logo_2026_01.png"
+    },
+    {
+      "name": "SANGEET BANGLA",
+      "url": "http://103.229.254.25:7001/play/a07m/index.m3u8",
+      "image": "https://askview.free.nf/assets/image/SANGEET_BANGLA.png"
+    },
+    {
+      "name": "ENTERR 10",
+      "url": "http://103.229.254.25:7001/play/a07a/index.m3u8",
+      "image": "https://askview.free.nf/assets/image/ENTERR_10.png"
+    },
+    {
+      "name": "COLORS BANGLA CINEMA",
+      "url": "http://103.49.70.113:5001/live/1657.m3u8",
+      "image": "https://askview.free.nf/assets/image/Colors_Bangla_Cinema.png"
+    },
+    {
+      "name": "SONY SET",
+      "url": "http://103.229.254.25:7001/play/a0eb/index.m3u8",
+      "image": "https://askview.free.nf/assets/image/Sony_TV_new.png"
+    },
+    {
+      "name": "STAR PLUS",
+      "url": "http://103.229.254.25:7001/play/a09p/index.m3u8",
+      "image": "https://askview.free.nf/assets/image/StarPlus_Logo.png"
+    },
+    {
+      "name": "STAR GOLD",
+      "url": "http://103.229.254.25:7001/play/a0dd/index.m3u8",
+      "image": "https://askview.free.nf/assets/image/স্টার_গোল্ড_লোগো.png"
+    },
+    {
+      "name": "ZEE TV",
+      "url": "http://103.229.254.25:7001/play/a0cs/index.m3u8",
+      "image": "https://askview.free.nf/assets/image/Zee_TV_2025.svg.png"
+    },
+    {
+      "name": "&PICTURES",
+      "url": "http://103.229.254.25:7001/play/a033/index.m3u8",
+      "image": "https://askview.free.nf/assets/image/&Pictures_2025.svg.png"
+    },
+    {
+      "name": "STAR GOLD 2",
+      "url": "http://103.229.254.25:7001/play/a0d0/index.m3u8",
+      "image": "https://askview.free.nf/assets/image/Star_Gold_2.svg.png"
+    },
+    {
+      "name": "SONY SAB",
+      "url": "http://103.229.254.25:7001/play/a0db/index.m3u8",
+      "image": "https://askview.free.nf/assets/image/SONY_SAB_SD_Logo_2022.png"
+    },
+    {
+      "name": "SONY PIX",
+      "url": "http://103.229.254.25:7001/play/a02u/index.m3u8",
+      "image": "https://askview.free.nf/assets/image/Sony_Pix_logo.svg.png"
+    },
+    {
+      "name": "SUN SURYA",
+      "url": "http://103.229.254.25:7001/play/a0dq/index.m3u8",
+      "image": "https://askview.free.nf/assets/image/Sun_Surya.png"
+    },
+    {
+      "name": "T SPORTS",
+      "url": "http://103.229.254.25:7001/play/a0g4/index.m3u8",
+      "image": "https://askview.free.nf/assets/image/T_Sports_logo.svg.png"
+    },
+    {
+      "name": "STAR SELECT 1",
+      "url": "http://103.229.254.25:7001/play/a0bz/index.m3u8",
+      "image": "https://askview.free.nf/assets/image/STAR_SELECT 1.png"
+    },
+    {
+      "name": "STAR SPORTS SELECT 2",
+      "url": "http://103.229.254.25:7001/play/a0c1/index.m3u8",
+      "image": "https://askview.free.nf/assets/image/STAR_SPORTS_SELECT_2.png"
+    },
+    {
+      "name": "STAR SPORTS 1",
+      "url": "http://103.229.254.25:7001/play/a0a0/index.m3u8",
+      "image": "https://askview.free.nf/assets/image/Star_Sports_1_HD.png"
+    },
+    {
+      "name": "STAR SPORTS 2",
+      "url": "http://103.229.254.25:7001/play/a0cp/index.m3u8",
+      "image": "https://askview.free.nf/assets/image/STAR_SPORTS_2.png"
+    },
+    {
+      "name": "STAR SPORTS 3",
+      "url": "http://103.229.254.25:7001/play/a0dg/index.m3u8",
+      "image": "https://askview.free.nf/assets/image/স্টার_ক্রিকেট.png"
+    },
+    {
+      "name": "SONY SPORTS 1",
+      "url": "http://103.229.254.25:7001/play/a02t/index.m3u8",
+      "image": "https://askview.free.nf/assets/image/SONY_SPORTS_1.png"
+    },
+    {
+      "name": "SONY SPORTS 2",
+      "url": "http://103.229.254.25:7001/play/a02t/index.m3u8",
+      "image": "https://askview.free.nf/assets/image/SONY_SPORTS_2.png"
+    },
+    {
+      "name": "SONY SPORTS 3",
+      "url": "http://103.229.254.25:7001/play/a0c3/index.m3u8",
+      "image": "https://askview.free.nf/assets/image/SONY_SPORTS_3.png"
+    },
+    {
+      "name": "TEN CRICKET",
+      "url": "http://103.229.254.25:7001/play/a0ep/index.m3u8",
+      "image": "https://askview.free.nf/assets/image/Ten_Cricket.png"
+    },
+    {
+      "name": "A SPORTS",
+      "url": "http://103.229.254.25:7001/play/a087/index.m3u8",
+      "image": "https://askview.free.nf/assets/image/A_Sports_Logo.png"
+    },
+    {
+      "name": "ANIMAL PLANET",
+      "url": "http://103.229.254.25:7001/play/a0dr/index.m3u8",
+      "image": "https://askview.free.nf/assets/image/2018_Animal_Planet_logo.svg.png"
+    },
+    {
+      "name": "SONY BBC EARTH",
+      "url": "http://103.229.254.25:7001/play/a031/index.m3u8",
+      "image": "https://askview.free.nf/assets/image/Sony_BBC_Earth.png"
+    },
+    {
+      "name": "BBC NEWS",
+      "url": "http://103.229.254.25:7001/play/a031/index.m3u8",
+      "image": "https://askview.free.nf/assets/image/BBC_News_2022_(Alt).svg.png"
+    },
+    {
+      "name": "DISCOVERY",
+      "url": "http://103.229.254.25:7001/play/a03g/index.m3u8",
+      "image": "https://askview.free.nf/assets/image/Logo_Discovery_HD.png"
+    },
+    {
+      "name": "NATIONAL GEOGRAPHIC",
+      "url": "http://103.229.254.25:7001/play/a038/index.m3u8",
+      "image": "https://askview.free.nf/assets/image/National-Geographic-Logo.svg.png"
+    },
+    {
+      "name": "BBC EARTH",
+      "url": "http://103.229.254.25:7001/play/a038/index.m3u8",
+      "image": "https://askview.free.nf/assets/image/BBC_Earth_2023.svg.png"
+    },
+    {
+      "name": "STAR MOVIES",
+      "url": "http://103.229.254.25:7001/play/a02w/index.m3u8",
+      "image": "https://askview.free.nf/assets/image/STAR_Movies_logo.svg.png"
+    },
+    {
+      "name": "STAR MOVIES SELECT",
+      "url": "http://103.229.254.25:7001/play/a02v/index.m3u8",
+      "image": "https://askview.free.nf/assets/image/স্টার_মুভিজ_সিলেক্ট_এইচডি_লোগো.png"
+    },
+    {
+      "name": "DURONTO TV",
+      "url": "http://103.229.254.25:7001/play/a05k/index.m3u8",
+      "image": "https://askview.free.nf/assets/image/Duronto_TV_Logo.png"
+    },
+    {
+      "name": "NICK",
+      "url": "http://103.229.254.25:7001/play/a07b/index.m3u8",
+      "image": "https://askview.free.nf/assets/image/Nick.png"
+    },
+    {
+      "name": "NICK JR",
+      "url": "http://103.229.254.25:7001/play/a0di/index.m3u8",
+      "image": "https://askview.free.nf/assets/image/Nick_Jr._logo_2023_(outline).svg.png"
+    },
+    {
+      "name": "GOPAL BHAR",
+      "url": "https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8",
+      "image": "https://askview.free.nf/assets/image/Gopal_Bhar_animated_TV_series_title_card.png"
     }
   ]
 }
