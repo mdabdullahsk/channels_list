@@ -1,0 +1,44 @@
+name: Encrypt IPTV Links
+
+on:
+  push:
+    branches: [ main ]
+  schedule:
+    - cron: '0 0 * * *' # এটি প্রতিদিন রাত ১২টায় অটোমেটিক লিংক আপডেট করবে
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v3
+
+    - name: Set up Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: '18'
+
+    - name: Install Crypto-JS
+      run: npm install crypto-js
+
+    - name: Run Encryption Script
+      env:
+        IPTV_LINKS: ${{ secrets.IPTV_LINKS }}
+        ENCRYPTION_KEY: ${{ secrets.ENCRYPTION_KEY }}
+      run: |
+        node -e "
+        const CryptoJS = require('crypto-js');
+        const links = process.env.IPTV_LINKS;
+        const key = process.env.ENCRYPTION_KEY;
+        const encrypted = CryptoJS.AES.encrypt(links, key).toString();
+        const fs = require('fs');
+        fs.writeFileSync('channels.json', JSON.stringify({ data: encrypted }));
+        "
+
+    - name: Commit and Push Encrypted File
+      run: |
+        git config --global user.name 'github-actions[bot]'
+        git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+        git add channels.json
+        git commit -m "Automated: Update encrypted TV links" || exit 0
+        git push
