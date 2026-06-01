@@ -4,11 +4,13 @@ on:
   push:
     branches: [ main ]
   schedule:
-    - cron: '0 0 * * *' # এটি প্রতিদিন রাত ১২টায় অটোমেটিক লিংক আপডেট করবে
+    - cron: '0 0 * * *' # প্রতিদিন রাত ১২টায় রান হবে
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # এটি সরাসরি রানারকে ফাইল পুশ করার পারমিশন দেবে
     steps:
     - name: Checkout Repository
       uses: actions/checkout@v3
@@ -18,8 +20,10 @@ jobs:
       with:
         node-version: '18'
 
-    - name: Install Crypto-JS
-      run: npm install crypto-js
+    - name: Initialize Package and Install Crypto-JS
+      run: |
+        npm init -y
+        npm install crypto-js
 
     - name: Run Encryption Script
       env:
@@ -27,12 +31,24 @@ jobs:
         ENCRYPTION_KEY: ${{ secrets.ENCRYPTION_KEY }}
       run: |
         node -e "
-        const CryptoJS = require('crypto-js');
-        const links = process.env.IPTV_LINKS;
-        const key = process.env.ENCRYPTION_KEY;
-        const encrypted = CryptoJS.AES.encrypt(links, key).toString();
-        const fs = require('fs');
-        fs.writeFileSync('channels.json', JSON.stringify({ data: encrypted }));
+        try {
+          const CryptoJS = require('crypto-js');
+          const links = process.env.IPTV_LINKS;
+          const key = process.env.ENCRYPTION_KEY;
+          
+          if (!links || !key) {
+            console.error('Error: Secrets are missing!');
+            process.exit(1);
+          }
+          
+          const encrypted = CryptoJS.AES.encrypt(links, key).toString();
+          const fs = require('fs');
+          fs.writeFileSync('channels.json', JSON.stringify({ data: encrypted }));
+          console.log('Encryption successful!');
+        } catch (err) {
+          console.error(err);
+          process.exit(1);
+        }
         "
 
     - name: Commit and Push Encrypted File
